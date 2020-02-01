@@ -1,0 +1,15 @@
+PREDEF:
+  - preface.re
+
+CHAPS:
+  - naso.re
+  - nihonbuson.re
+  - caori_t.re
+  - koooooooooooki.re
+  - trickmrbiz.re
+  - zono.re
+
+APPENDIX:
+
+POSTDEF:
+ - afterwords.re
