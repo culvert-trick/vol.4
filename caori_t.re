@@ -113,7 +113,6 @@
 //embed[latex]{
 \clearpage
 //}
-
 === 例題：テスト技法の勉強をする
 
 これがワークシート。
@@ -123,7 +122,9 @@
 下記のように、自分がこの辺かな？と思う位置に○をつけて、なぜそう判断したか？の理由も書こう。
 
 //indepimage[vol4_caori_2]
-
+//embed[latex]{
+\clearpage
+//}
 全部埋めるとこんな感じ。
 
 //indepimage[vol4_caori_3]
@@ -139,6 +140,9 @@
 
 //indepimage[vol4_caori_4]
 
+//embed[latex]{
+\clearpage
+//}
 == 変換してみよう！
 
 さて、見分けることに慣れてきたら、もう一歩。
